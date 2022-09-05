@@ -29,17 +29,17 @@ export default function Home() {
         <h5>Foodo &copy; themukherjee</h5>
         <script
           src="https://unpkg.com/react/umd/react.production.min.js"
-          crossorigin
+          crossOrigin
         ></script>
 
         <script
           src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"
-          crossorigin
+          crossOrigin
         ></script>
 
         <script
           src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"
-          crossorigin
+          crossOrigin
         ></script>
       </footer>
     </div>
